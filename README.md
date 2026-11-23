@@ -107,15 +107,15 @@ The P1 controller is never touched by the mod, so one pad never moves two player
 
 Press **PageUp** to open the menu. Besides the original options, there is a submenu:
 
-### Trocar Personagem / Change Character
+### Change Character
 
 | Option | Function |
 |--------|----------|
-| Jogador | Choose P1, P2 or P3 as the target |
-| Trocar modelo (aleatório) | Change the target's model to a random one |
-| Digitar nome do modelo | Type a model name, e.g. `player_zero` |
-| Girar peds P1<-P2<-P3<-P1 | Rotate the characters (requires all 3 spawned) |
-| Teclado controla | Choose which player receives `U/H/Y/J` |
+| Player | Choose P1, P2 or P3 as the target |
+| Change model (random) | Change the target's model to a random one |
+| Type model name | Type a model name, e.g. `player_zero` |
+| Rotate peds P1<-P2<-P3<-P1 | Rotate the characters (requires all 3 spawned) |
+| Keyboard controls | Choose which player receives `U/H/Y/J` |
 
 ---
 

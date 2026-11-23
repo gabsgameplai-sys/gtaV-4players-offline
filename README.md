@@ -1,4 +1,5 @@
 # gtaV-4players-offline
+<img width="1254" height="1254" alt="Logo Offline Coop com Quatro Jogadores" src="https://github.com/user-attachments/assets/2c877f75-b6e6-46b9-bfad-1cef133150f5" />
 
 A "patch" for the **Offline Coop - SplitScreen** mod that makes it compatible with **3 and 4 players**, with real 2x2 viewports and separate controls.
 
